@@ -84,5 +84,5 @@ Si deseas contribuir a este proyecto, no dudes en hacer un **fork** y crear un *
 
 ## 🧑‍💻 Desarrollado por:
 
-- **Tu Nombre** - [Tu GitHub](https://github.com/Vapesitoh)
+- **Creador** - [Vapesitoh/Bakner](https://github.com/Vapesitoh)
 
